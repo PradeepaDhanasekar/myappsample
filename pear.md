@@ -6,3 +6,5 @@ Pear file is created
 This fruit is rich in vitamins
 
 This fruit is good for heart ailments
+
+1+1 = 2
